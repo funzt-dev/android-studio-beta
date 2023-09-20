@@ -1,5 +1,5 @@
-src
-*.log
-*pkg*
-*.zip
-*tar*
+*
+!PKGBUILD
+!.SRCINFO
+!.tool-versions
+!justfile
